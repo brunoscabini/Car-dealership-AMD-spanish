@@ -1,0 +1,18 @@
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\BE\bin\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\BE\bin\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\BE\obj\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\BE\obj\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\BE\bin\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\BE\bin\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\BE\obj\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\BE\obj\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\BE\bin\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\BE\bin\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\BE\obj\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\BE\obj\Debug\BE.pdb

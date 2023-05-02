@@ -1,0 +1,60 @@
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\bin\Debug\DAO_Capas.exe.config
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\bin\Debug\DAO_Capas.exe
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\bin\Debug\DAO_Capas.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\bin\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\bin\Debug\BLL.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\bin\Debug\Mapper.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\bin\Debug\DAO.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\bin\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\bin\Debug\BLL.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\bin\Debug\Mapper.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\bin\Debug\DAO.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\obj\Debug\DAO_Capas.Vista.resources
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\obj\Debug\DAO_Capas.Properties.Resources.resources
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\obj\Debug\DAO_Capas.exe
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\obj\Debug\DAO_Capas.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\bin\Debug\DAO_Capas.exe.config
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\bin\Debug\DAO_Capas.exe
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\bin\Debug\DAO_Capas.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\bin\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\bin\Debug\BLL.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\bin\Debug\Mapper.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\bin\Debug\DAO.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\bin\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\bin\Debug\BLL.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\bin\Debug\Mapper.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\bin\Debug\DAO.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\obj\Debug\DAO_Capas.Vista.resources
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\obj\Debug\DAO_Capas.Properties.Resources.resources
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\obj\Debug\DAO_Capas.exe
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\Vista\obj\Debug\DAO_Capas.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\bin\Debug\DAO_Capas.exe.config
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\bin\Debug\DAO_Capas.exe
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\bin\Debug\DAO_Capas.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\bin\Debug\BE.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\bin\Debug\BLL.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\bin\Debug\Mapper.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\bin\Debug\DAO.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\bin\Debug\BE.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\bin\Debug\BLL.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\bin\Debug\Mapper.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\bin\Debug\DAO.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\obj\Debug\DAO_Capas.Vista.resources
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\obj\Debug\DAO_Capas.Properties.Resources.resources
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\obj\Debug\DAO_Capas.exe
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\Vista\obj\Debug\DAO_Capas.pdb

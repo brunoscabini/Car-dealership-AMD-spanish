@@ -1,0 +1,18 @@
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\DAO\bin\Debug\DAO.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\DAO\bin\Debug\DAO.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\DAO\obj\Debug\DAO.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\DAO en Capas\DAO\obj\Debug\DAO.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\DAO\bin\Debug\DAO.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\DAO\bin\Debug\DAO.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\DAO\obj\Debug\DAO.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\Concesionaria\Módulos\DAO\obj\Debug\DAO.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\DAO\bin\Debug\DAO.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\DAO\bin\Debug\DAO.pdb
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\DAO\obj\Debug\DAO.dll
+C:\Users\xscab\OneDrive\Documents\Facultad\2do año\2do cuatrimestre\LUG\ABM de concesionaria\Módulos\DAO\obj\Debug\DAO.pdb
